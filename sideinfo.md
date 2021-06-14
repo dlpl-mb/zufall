@@ -73,11 +73,13 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
  - Verändere die Zahl **anzahl** auf höhere Werte, etwa 100 000
  - Wir stellen fest: Je höher die **Anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
 
+ - [x] ja
+ - [ ] nein
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAxMjc5NDIsLTExNjg2Njk5NTAsNz
-Y4MDg2NjU4XX0=
+eyJoaXN0b3J5IjpbNDAyMzAwODc3LC0xMTMwMTI3OTQyLC0xMT
+Y4NjY5OTUwLDc2ODA4NjY1OF19
 -->
