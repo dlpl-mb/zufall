@@ -6,7 +6,7 @@ input.onButtonPressed(Button.B, function () {
 })
 let kopf = 0
 let anzahl = 0
-anzahl = 10000
+anzahl = 100000
 kopf = 0
 for (let index = 0; index < anzahl; index++) {
     if (randint(0, 1) == 0) {
