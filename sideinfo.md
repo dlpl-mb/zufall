@@ -17,7 +17,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 100mal die A-Taste zu drücken ist zuviel Aufwand - wir verwenden eine Schleife
 ```blocks
 	input.onButtonPressed(Button.A, function () {
-		for (let index = 0; index < 1000; index++) {
+		for (let index = 0; index < 100; index++) {
 			basic.showNumber(randint(0, 1))
 		}
 	})
@@ -74,3 +74,6 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 > Written with [StackEdit](https://stackedit.io/).
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzA3ODU1NDc1XX0=
+-->
