@@ -29,7 +29,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
  - Nun verwenden wir eine Variable, wo die Ergebnisse gezählt werden
  - Wir nennen die eine Variable mit dem Namen **Kopf**
  - Wir addieren bei der Zufallszahl **0** immer die Variable Kopf um eines hoch
- - Wir wählen nun bereits 1001 Durchläufe
+ - Wir wählen nun bereits 1002 Durchläufe
 ```blocks
 	let kopf = 0
 	input.onButtonPressed(Button.A, function () {
