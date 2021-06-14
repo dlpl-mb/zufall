@@ -48,7 +48,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
  - Die Anzahl der **Zahlwürfe** kann man dann erreichnen
 ## Test und Verbesserung
  - Nun soll das Programm sofort nach dem Start aufrufen und gleich 1000 Versuche durchführen
- - Am Schluss soll mit Taste **A** die Zahl der Anzahl der Kopfwürfe darstellen, die Tast **B** sollte die Würfe mit dem Ergebnis **Zahl** darstellen.
+ - Am Schluss soll mit **Taste A** die Zahl der Anzahl der Kopfwürfe darstellen, die Tast **B** sollte die Würfe mit dem Ergebnis **Zahl** darstellen.
 
 ```blocks
 	input.onButtonPressed(Button.A, function () {
@@ -78,6 +78,6 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzEyOTIwMywtMTE2ODY2OTk1MCw3Nj
-gwODY2NThdfQ==
+eyJoaXN0b3J5IjpbNTk0NjI4NTMxLC0xMTY4NjY5OTUwLDc2OD
+A4NjY1OF19
 -->
