@@ -70,7 +70,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 ```
  - Am Ende der Schleife wird das Wort **Fertig** angezeigt
 ## Ergebnis des Versuches
- - Verändere die Zahl **anzahl** auf höhere Werte
+ - Verändere die Zahl **anzahl** auf höhere Werte, etwa 100 000
  - Wir stellen fest: Je höher die **Anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
 
 
@@ -78,6 +78,6 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzU2NzQ1MSwtMTE2ODY2OTk1MCw3Nj
+eyJoaXN0b3J5IjpbMjEyMzEyOTIwMywtMTE2ODY2OTk1MCw3Nj
 gwODY2NThdfQ==
 -->
