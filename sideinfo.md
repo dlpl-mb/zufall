@@ -71,7 +71,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
  - Am Ende der Schleife wird das Wort **Fertig** angezeigt
 ## Ergebnis des Versuches
  - Verändere die Zahl **anzahl** auf höhere Werte
- - Wir stellen fest, dass, je höher die **anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
+ - Wir stellen fest: Je höher die **Anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
 
 
 > Written with [StackEdit](https://stackedit.io/).
