@@ -25,6 +25,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 ### Probleme und Verbesserung
  - Es dauert sehr lange, diesen Versuch zu beobachten und mitzuzählen
  - Es muss nun der Computer die Zählung übernehme - wir wollen den Versuche dann ja auch auf 10 000 Durchgänge ausbauen
+
 ## Arbeit mit Variablen
  - Nun verwenden wir eine Variable, wo die Ergebnisse gezählt werden
  - Wir nennen die eine Variable mit dem Namen **Kopf**
@@ -76,5 +77,5 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MDg2NjU4XX0=
+eyJoaXN0b3J5IjpbOTYzMjkyMTgyLDc2ODA4NjY1OF19
 -->
