@@ -13,6 +13,7 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 ```
  - Du kannst mit dieser Funktion mit dem Computer "eine Münze" werfen 
  - Versuche 20mal zu werfen - notiere die Ergebnisse
+
 ### Anzahl der Würfe erhöhen auf 100
 100mal die A-Taste zu drücken ist zuviel Aufwand - wir verwenden eine Schleife
 ```blocks
@@ -77,5 +78,5 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODQ2NDg0LDc2ODA4NjY1OF19
+eyJoaXN0b3J5IjpbLTExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
 -->
