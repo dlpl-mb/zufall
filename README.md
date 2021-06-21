@@ -29,10 +29,10 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Wir benötigen Variable zum Zählen der Versuche
 
 ## Arbeit mit Variablen
- - Nun verwenden wir eine Variable, wo die Ergebnisse gezählt werden
- -  Variable definiert man über den gleichlautenden Menüpunkt **Variable**
+ - Nun verwenden wir eine Variable, mit der die Ergebnisse gezählt werden
+ - Variable definiert man über den gleichlautenden Menüpunkt **Variable**
  - Wir nennen die neue Variable **Kopf**
-- Wir addieren bei der Zufallszahl **0** immer die Variable Kopf um eines hoch
+- Wir addieren bei einem Treffer **Kopf** (Zufallszahl **0** immer die Variable Kopf um eines hoch
  - Wir wählen nun bereits 1000 Durchläufe
 ```blocks
 	let kopf = 0
@@ -79,7 +79,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTA1NDkyOCwtODYwODMyMTQwLC0xNj
-I5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5NDIsLTExNjg2
-Njk5NTAsNzY4MDg2NjU4XX0=
+eyJoaXN0b3J5IjpbLTE2NDQ2MTY1MjAsLTg2MDgzMjE0MCwtMT
+YyOTg4MjY4MCwxNTU4ODkyMTcyLC0xMTMwMTI3OTQyLC0xMTY4
+NjY5OTUwLDc2ODA4NjY1OF19
 -->
