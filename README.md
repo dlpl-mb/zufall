@@ -54,7 +54,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 	 - Was fällt auf? 
 	 - Hilfe: Kommen jetzt auch Ergebnisse 1:999 oder 900:100?
 ## Test und Verbesserung
- - Nun soll das Programm sofort nach dem Start aufrufen und gleich 1000 Versuche durchführen
+ - Nun soll das Programm sofort nach dem Start gleich 100 000 Versuche durchführen
  - Am Schluss soll mit **Taste A** die Zahl der Anzahl der Kopfwürfe darstellen, die **Taste B** sollte die Würfe mit dem Ergebnis **Zahl** darstellen.
 
 ```blocks
@@ -77,14 +77,14 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 ```
  - Am Ende der Schleife wird das Wort **Fertig** angezeigt
 ## Ergebnis des Versuches
- - Verändere die Zahl **anzahl** auf höhere Werte, etwa 100 000
+ - Verändere die Zahl **anzahl** auf höhere Werte, etwa 1 000 000
  - Wir stellen fest: Je höher die **Anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDY0MjcxMSw3NzMwOTk1MzIsLTg2MD
+eyJoaXN0b3J5IjpbMTA5NDU2ODk2MCw3NzMwOTk1MzIsLTg2MD
 gzMjE0MCwtMTYyOTg4MjY4MCwxNTU4ODkyMTcyLC0xMTMwMTI3
 OTQyLC0xMTY4NjY5OTUwLDc2ODA4NjY1OF19
 -->
