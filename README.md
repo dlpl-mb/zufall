@@ -5,7 +5,7 @@ Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gl
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
 Testet man das in der Realität durch Münzenwerfen, so erhält man bei 10 Würfen Ergebnisse, wie etwa 6:4, 7:3 oder gar 5:5 - aber auch 9:1 ist möglich. Also ist man von der Behauptung "gleicher  Kopf und Zahlwürfen" weit entfernt. Vielleicht müsste man aber 1000 mal werfen, aber das ist zu zeitaufwendig.
 ## Versuch: Münzwurf mit Computer
-Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgenerator durchführen. (Siehe Menü Mathematik ). Mit Zufallszahl 0 nehmen wir Kopf und mit Zufallszahl 1 nehmen wir Zahl.
+Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgenerator durchführen. (Siehe Menü Mathematik ). Mit Zufallszahl 0 nehmen wir die Kopfseite der Münze und mit Zufallszahl 1 nehmen wir Zahlseite.
 ```blocks
 	input.onButtonPressed(Button.A, function () {
 		basic.showNumber(randint(0, 1))
@@ -77,6 +77,6 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTgwNzUxMSwxNTU4ODkyMTcyLC0xMT
-MwMTI3OTQyLC0xMTY4NjY5OTUwLDc2ODA4NjY1OF19
+eyJoaXN0b3J5IjpbLTE2Mjk4ODI2ODAsMTU1ODg5MjE3MiwtMT
+EzMDEyNzk0MiwtMTE2ODY2OTk1MCw3NjgwODY2NThdfQ==
 -->
