@@ -32,8 +32,8 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Nun verwenden wir eine Variable, mit der die Ergebnisse gezählt werden
  - Variable definiert man über den gleichlautenden Menüpunkt **Variable**
  - Wir nennen die neue Variable **Kopf**
-- Wir addieren bei einem Treffer **Kopf** (Zufallszahl **0** immer die Variable Kopf um eines hoch
- - Wir wählen nun bereits 1000 Durchläufe
+- Wir addieren bei einem Treffer **Kopf** (Zufallszahl **0**) immer die Variable **Kop**f um 1 hoch
+ - Wir arbeiten nun gleich einmal mit 1000 Durchläufen
 ```blocks
 	let kopf = 0
 	input.onButtonPressed(Button.A, function () {
@@ -79,7 +79,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ2MTY1MjAsLTg2MDgzMjE0MCwtMT
-YyOTg4MjY4MCwxNTU4ODkyMTcyLC0xMTMwMTI3OTQyLC0xMTY4
-NjY5OTUwLDc2ODA4NjY1OF19
+eyJoaXN0b3J5IjpbNzczMDk5NTMyLC04NjA4MzIxNDAsLTE2Mj
+k4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEyNzk0MiwtMTE2ODY2
+OTk1MCw3NjgwODY2NThdfQ==
 -->
