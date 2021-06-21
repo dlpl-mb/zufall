@@ -15,7 +15,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Versuche 20mal zu werfen - notiere die Ergebnisse
 
 ### Anzahl der Würfe erhöhen auf 100
-100mal die A-Taste zu drücken ist zuviel Aufwand - wir verwenden eine Schleife
+100mal die A-Taste zu drücken ist zuviel Aufwand - wir verwenden eine Schleife - Menüpunkt **Schleife**
 ```blocks
 	input.onButtonPressed(Button.A, function () {
 		for (let index = 0; index < 100; index++) {
@@ -78,7 +78,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDgzMjE0MCwtMTYyOTg4MjY4MCwxNT
-U4ODkyMTcyLC0xMTMwMTI3OTQyLC0xMTY4NjY5OTUwLDc2ODA4
-NjY1OF19
+eyJoaXN0b3J5IjpbLTYxNTA2Njc0LC04NjA4MzIxNDAsLTE2Mj
+k4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEyNzk0MiwtMTE2ODY2
+OTk1MCw3NjgwODY2NThdfQ==
 -->
