@@ -26,6 +26,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 ### Probleme und Verbesserung
  - Es dauert sehr lange, diesen Versuch zu beobachten und mitzuzählen
  - Es muss nun der Computer die Zählung übernehme - wir wollen den Versuche dann ja auch auf 10 000 Durchgänge ausbauen
+ - Wir benötigen Variable zum Zählen der Versuche
 
 ## Arbeit mit Variablen
  - Nun verwenden wir eine Variable, wo die Ergebnisse gezählt werden
@@ -78,7 +79,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTA2Njc0LC04NjA4MzIxNDAsLTE2Mj
-k4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEyNzk0MiwtMTE2ODY2
-OTk1MCw3NjgwODY2NThdfQ==
+eyJoaXN0b3J5IjpbMTUzNTA1NDkyOCwtODYwODMyMTQwLC0xNj
+I5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5NDIsLTExNjg2
+Njk5NTAsNzY4MDg2NjU4XX0=
 -->
