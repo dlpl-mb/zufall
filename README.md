@@ -30,6 +30,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 ## Arbeit mit Variablen
  - Nun verwenden wir eine Variable, wo die Ergebnisse gezählt werden
  - Wir nennen die eine Variable mit dem Namen **Kopf**
+ - Varaiable de
  - Wir addieren bei der Zufallszahl **0** immer die Variable Kopf um eines hoch
  - Wir wählen nun bereits 1000 Durchläufe
 ```blocks
@@ -77,6 +78,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk4ODI2ODAsMTU1ODg5MjE3MiwtMT
-EzMDEyNzk0MiwtMTE2ODY2OTk1MCw3NjgwODY2NThdfQ==
+eyJoaXN0b3J5IjpbMTQzMTg2NzE1MSwtMTYyOTg4MjY4MCwxNT
+U4ODkyMTcyLC0xMTMwMTI3OTQyLC0xMTY4NjY5OTUwLDc2ODA4
+NjY1OF19
 -->
