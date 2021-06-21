@@ -81,7 +81,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Wir stellen fest: Je höher die **Anzahl** ist, umso näher rücken die Ergebnissen von **Kopf** und **Zahl** zusammen.
  - Bei extrem hohen Zahlen, wo die Berechnung dann auch schon einmal Minuten dauern kann, nähern sich die Ergebnisse bei **Kopf** und **Zahl** immer mehr an.
 
-[Das fertige Programm kannst du hier abrufen] (https://makecode.microbit.org/_7svgyP5U9Dg4)
+[Das fertige Programm kannst du hier abrufen] (https://makecode.microbit.org/#pub:_7svgyP5U9Dg4)
 
 > Written with [StackEdit](https://stackedit.io/).
 
