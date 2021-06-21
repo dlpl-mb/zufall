@@ -3,7 +3,7 @@
 ## Einstieg: Münzenwurf
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
-Testet man das in der Realität durch Münzenwerfen so erhält man Ergebnisse, wie 6:4, 7:3 oder gar 5:5 - aber auch 9:1 ist möglich. Also ist man von gleicher  Kopf und Zahlwürfen weit entfernt.
+Testet man das in der Realität durch Münzenwerfen, so erhält man bei 10 Würfen Ergebnisse, wie etwa 6:4, 7:3 oder gar 5:5 - aber auch 9:1 ist möglich. Also ist man von der Behauptung "gleicher  Kopf und Zahlwürfen" weit entfernt.
 ## Münzwurf mit Computerunterstützung 
 Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgenerator ermitteln.  Mit Zufallszahl 0 oder 1 kann man Kopf (0) oder Zahl (1) darstellen.
 ```blocks
@@ -77,6 +77,6 @@ Micro:bit kann eine Zahl darstellen - es kann diese Zahl so mit dem Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODg5MjE3MiwtMTEzMDEyNzk0MiwtMT
-E2ODY2OTk1MCw3NjgwODY2NThdfQ==
+eyJoaXN0b3J5IjpbNTM3NzUyNDIxLDE1NTg4OTIxNzIsLTExMz
+AxMjc5NDIsLTExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
 -->
