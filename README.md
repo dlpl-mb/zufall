@@ -32,7 +32,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Nun verwenden wir eine Variable, mit der die Ergebnisse gezählt werden
  - Variable definiert man über den gleichlautenden Menüpunkt **Variable**
  - Wir nennen die neue Variable **Kopf**
-- Wir addieren bei einem Treffer **Kopf** (Zufallszahl **0**) immer die Variable **Kop**f um 1 hoch
+ - Wir addieren bei einem Treffer **Kopf** (Zufallszahl **0**) immer die Variable **Kop**f um 1 hoch
  - Wir arbeiten nun gleich einmal mit 1000 Durchläufen
 ```blocks
 	let kopf = 0
@@ -47,7 +47,9 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 	})
 ```
  - Am Ende der Schleife wird die Zahl der **Kopfwürfe** angezeigt
- - Die Anzahl der **Zahlwürfe** kann man dann erreichnen
+ - Die Anzahl der **Zahlwürfe** kann man dann errechnen
+ - Überlege: Warum müssen wir die Variable **Kopf** zuerst auf 0 setzen.
+ - Beo
 ## Test und Verbesserung
  - Nun soll das Programm sofort nach dem Start aufrufen und gleich 1000 Versuche durchführen
  - Am Schluss soll mit **Taste A** die Zahl der Anzahl der Kopfwürfe darstellen, die **Taste B** sollte die Würfe mit dem Ergebnis **Zahl** darstellen.
@@ -79,7 +81,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMDk5NTMyLC04NjA4MzIxNDAsLTE2Mj
-k4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEyNzk0MiwtMTE2ODY2
-OTk1MCw3NjgwODY2NThdfQ==
+eyJoaXN0b3J5IjpbLTE1MjkxMDUyMTMsNzczMDk5NTMyLC04Nj
+A4MzIxNDAsLTE2Mjk4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEy
+Nzk0MiwtMTE2ODY2OTk1MCw3NjgwODY2NThdfQ==
 -->
