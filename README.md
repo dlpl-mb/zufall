@@ -49,7 +49,8 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Am Ende der Schleife wird die Zahl der **Kopfwürfe** angezeigt
  - Die Anzahl der **Zahlwürfe** kann man dann errechnen
  - Überlege: Warum müssen wir die Variable **Kopf** zuerst auf 0 setzen.
- - Beo
+ - Beobachten wir nun die Ergebnisse: 
+	 - Mache einige Durchläufe und schreibe die Ergebnissen von Kopf und Zahl auf - diskutiert die Ergebnisse.
 ## Test und Verbesserung
  - Nun soll das Programm sofort nach dem Start aufrufen und gleich 1000 Versuche durchführen
  - Am Schluss soll mit **Taste A** die Zahl der Anzahl der Kopfwürfe darstellen, die **Taste B** sollte die Würfe mit dem Ergebnis **Zahl** darstellen.
@@ -81,7 +82,7 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkxMDUyMTMsNzczMDk5NTMyLC04Nj
-A4MzIxNDAsLTE2Mjk4ODI2ODAsMTU1ODg5MjE3MiwtMTEzMDEy
-Nzk0MiwtMTE2ODY2OTk1MCw3NjgwODY2NThdfQ==
+eyJoaXN0b3J5IjpbMjMzMjQxNDEwLDc3MzA5OTUzMiwtODYwOD
+MyMTQwLC0xNjI5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5
+NDIsLTExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
 -->
