@@ -1,6 +1,6 @@
 # Dem Zufall auf der Spur: TUTORIAL
 ## Schritt 1:
-### Eine Münze werfen
+### ööööööööööööööööööööööö Eine Münze werfen
 **Eine Behauptung:** Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
 Testet man das in der Realität durch Münzenwerfen, so erhält man bei 10 Würfen Ergebnisse, wie etwa 6:4, 7:3 oder gar 5:5 - aber auch 9:1 ist möglich. Also ist man von der Behauptung "gleicher  Kopf und Zahlwürfen" weit entfernt. Vielleicht müsste man aber 1000 mal werfen, aber das ist zu zeitaufwendig.
@@ -88,9 +88,9 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzY0NTE5MiwtMTEzNjgyODQyOSwtMT
-c5NTA3NTQ1OCwxNjcxMDk4NjE2LDEwMjEwMzcxNDUsMTk2MTYz
-NDExNSw3NzMwOTk1MzIsLTg2MDgzMjE0MCwtMTYyOTg4MjY4MC
-wxNTU4ODkyMTcyLC0xMTMwMTI3OTQyLC0xMTY4NjY5OTUwLDc2
-ODA4NjY1OF19
+eyJoaXN0b3J5IjpbLTEzMDcyMzU1MCwtNjA3NjQ1MTkyLC0xMT
+M2ODI4NDI5LC0xNzk1MDc1NDU4LDE2NzEwOTg2MTYsMTAyMTAz
+NzE0NSwxOTYxNjM0MTE1LDc3MzA5OTUzMiwtODYwODMyMTQwLC
+0xNjI5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5NDIsLTEx
+Njg2Njk5NTAsNzY4MDg2NjU4XX0=
 -->
