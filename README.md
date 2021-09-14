@@ -87,12 +87,5 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 [Das fertige Programm kannst du hier abrufen] (https://makecode.microbit.org/#pub:_7svgyP5U9Dg4)
 
-> Written with [StackEdit](https://stackedit.io/).
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Nzg5NzMyNCwzNTk4Mzk3NTgsMTAyMT
-AzNzE0NSwxOTYxNjM0MTE1LDc3MzA5OTUzMiwtODYwODMyMTQw
-LC0xNjI5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5NDIsLT
-ExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
--->
+<style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
